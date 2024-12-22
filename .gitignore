@@ -1,0 +1,6 @@
+# Compiled binary
+aoc-2024
+
+# Input
+*.txt
+*.example
